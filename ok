@@ -1,0 +1,10 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex b103466..9c40a3a 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -13,4 +13,4 @@[m [mOutput[m
+    simple interest = p*t*r[m
+ ```[m
+ [m
+[31m-_© 2022 XYZ, Inc._[m
+[32m+[m[32m_© 2021 XYZ, Inc._[m
