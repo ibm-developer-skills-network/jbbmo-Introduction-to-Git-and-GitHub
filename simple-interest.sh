@@ -13,6 +13,7 @@
 
 # Output:
 # simple interest = p*t*r
+# PR
 
 echo "Enter the principal:"
 read p
