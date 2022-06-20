@@ -14,6 +14,9 @@
 # Import math Library
 import math
 
+def simple_interest(p, t, r):
+	return p * (1 + r*t)
+
 def compound_interest(p, t, r):
     return p * (pow((1 + r / 100), t))
 
