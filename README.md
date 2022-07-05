@@ -14,7 +14,11 @@ Output
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 _© 2021 XYZ, Inc._
 =======
 © 2021 XYZ, Inc._
 >>>>>>> bug-fix-typo
+=======
+_© 2022 XYZ, Inc._
+>>>>>>> parent of d2331a8... Changed the copyright year from 2022 to 2021
