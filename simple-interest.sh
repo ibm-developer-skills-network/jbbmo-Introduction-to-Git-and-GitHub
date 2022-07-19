@@ -1,7 +1,7 @@
 #!/bin/bash
 # This script calculates simple interest given principal, annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
-
+# secont change for second pull request
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
 # milad-a-kareem
