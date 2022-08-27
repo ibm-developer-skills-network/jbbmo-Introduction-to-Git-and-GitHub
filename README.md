@@ -14,3 +14,7 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
+
+#test local user.name user.email
+user.name=photoVision
+user.email=rm@gm.com
