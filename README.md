@@ -13,4 +13,6 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 XYZ, Inc._
+_© 2021 XYZ, Inc._
+
+### I fix this date because the changes i dates can be misunderstood, a right date give a lot of information for the project and for the people ###
