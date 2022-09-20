@@ -14,3 +14,7 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of ae6b034 (Update README)
