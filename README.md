@@ -14,3 +14,4 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
+## Simple Interest Calculator
