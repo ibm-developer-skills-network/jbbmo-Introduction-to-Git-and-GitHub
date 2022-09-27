@@ -21,4 +21,4 @@ if __name__ == "__main__":
     t = float(input("Enter the time period: "))
     r = float(input("Enter the rate of interest: "))
 
-    print("The compound interest is {:.2f}".format(compound_interest(p, t, r)))
+    print("The compound interest of above is {:.2f}".format(compound_interest(p, t, r)))
