@@ -22,3 +22,5 @@ if __name__ == "__main__":
     r = float(input("Enter the rate of interest: "))
 
     print("The compound interest is {:.2f}".format(compound_interest(p, t, r)))
+    
+    
