@@ -1,7 +1,7 @@
-# This script calculates yearly compound interest given principal, annual rate of interest and time period in years.
+# This script calculates yearly simple interest given principal, annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
 
-# Author: Upkar Lidder (IBM)
+# Author: MD. Jashim Uddin
 
 # Input:
 # p, principal amount
@@ -9,11 +9,11 @@
 # r, annual rate of interest
 
 # Output:
-# compound interest = p * (1 + r/100)^t
+# simple interest = p*t*r
 
 
-def compound_interest(p, t, r):
-    return p * (pow((1 + r / 100), t))
+def simple_interest(p, t, r):
+    return p*t*r
 
 
 if __name__ == "__main__":
@@ -21,4 +21,4 @@ if __name__ == "__main__":
     t = float(input("Enter the time period: "))
     r = float(input("Enter the rate of interest: "))
 
-    print("The compound interest is {:.2f}".format(compound_interest(p, t, r)))
+    print("The simple interest is {:.2f}".format(simple_interest(p, t, r)))
