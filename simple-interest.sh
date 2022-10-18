@@ -7,14 +7,14 @@
 # <your Github username>
 
 # Input:
-# p, principal amount
+# p, principal amount entered 
 # t, time period in years
 # r, annual rate of interest
 
 # Output:
 # simple interest = p*t*r
 
-echo "Enter the principal:"
+echo "Enter the principal amount:"
 read p
 echo "Enter rate of interest per year:"
 read r
