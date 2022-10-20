@@ -12,3 +12,4 @@ jobs:
       with:
         # Optional. Post a issue comment just before closing a pull request.
         comment: "Congratulations! You have completed the lab. Closing for maintainence purpose."
+git revert
