@@ -13,5 +13,5 @@ Output
    simple interest = p*t*r
 ```
 
-© 2021XYZ, Inc.!
+© 2021XYZ, Inc.
 
