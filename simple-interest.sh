@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# spz4bp
+# peters-code-hub 
 
 # Input:
 # p, principal amount
