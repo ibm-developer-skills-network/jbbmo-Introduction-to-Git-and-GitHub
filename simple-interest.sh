@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <your Github username>
+# xiaoy-git
 
 # Input:
 # p, principal amount
