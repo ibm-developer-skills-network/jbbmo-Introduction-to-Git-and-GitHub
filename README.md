@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+# Introduction to Git and GitHub----Chinmoy
 
 ## Simple Interest Calculator
 
