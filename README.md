@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
+
+The typo message has been fixed, it is in the correct year date
