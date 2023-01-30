@@ -12,10 +12,10 @@ Input:
 Output
    simple interest = p*t*r
 ```
+git revent
 
 © 2021 XYZ, Inc.
 
 Realizando los cambios en el laboratorio github
-git revent
-© 2022 XYZ, Inc.
+
 
