@@ -3,6 +3,9 @@
 
 # Author: Upkar Lidder (IBM)
 
+# Additional Authors
+# SinthiyaS
+
 # Input:
 # p, principal amount
 # t, time period in years
