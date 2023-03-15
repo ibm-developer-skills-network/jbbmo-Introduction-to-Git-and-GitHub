@@ -12,5 +12,5 @@ Input:
 Output
    simple interest = p*t*r
 ```
-
+HOLA LINDO DIA 
 _© 2021 XYZ, Inc._
