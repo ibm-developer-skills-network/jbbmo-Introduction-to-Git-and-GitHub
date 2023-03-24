@@ -2,6 +2,8 @@
 
 ## Simple Interest Calculator
 
+# The foult fixed in this update
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
