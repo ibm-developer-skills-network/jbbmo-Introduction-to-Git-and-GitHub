@@ -1,9 +1,3 @@
-git add README.md
-git commit -m "Updated README"
-git config --global user.email "e.popova8993@gmail.com"
-git config --global user.name "Elena Popova"
-git push origin bug-fix-typo
-git checkout main
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
@@ -19,4 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2021 XYZ, Inc._
+_© 2022 XYZ, Inc._
