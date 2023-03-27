@@ -9,7 +9,7 @@
 # Input:
 # p, principal amount
 # t, time period in years
-# r, annual rate of interest
+# r, annual rate of interest typo
 
 # Output:
 # simple interest = p*t*r
