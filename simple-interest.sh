@@ -1,9 +1,9 @@
-#!/bin/bash
+#!/bin/bash ORLANDO
 # This script calculates simple interest given principal, annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
-# Addtional Authors:
+# Addtional Authors: ORLANDO A
 # <your Github username>
 
 # Input:
