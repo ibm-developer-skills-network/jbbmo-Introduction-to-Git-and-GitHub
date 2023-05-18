@@ -14,3 +14,6 @@ Output
 ```
 
 © 2021 XYZ, Inc.
+
+$ git remote add origin <https://github.com/LindseySmith13/jbbmo-Introduction-to-Git-and-GitHub.git>
+$ git push origin master
