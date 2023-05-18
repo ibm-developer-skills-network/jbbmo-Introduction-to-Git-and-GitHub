@@ -12,7 +12,6 @@ Input:
 Output
    simple interest = p*t*r
 ```
-$ git remote add origin <https://github.com/LindseySmith13/jbbmo-Introduction-to-Git-and-GitHub.git>
-$ git push origin master
+
 
 © 2021 XYZ, Inc.
