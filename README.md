@@ -12,9 +12,5 @@ Input:
 Output
    simple interest = p*t*r
 ```
-<<<<<<< HEAD
-© 2022 XYZ, Inc.
-=======
 
-_© 2022 XYZ, Inc._
->>>>>>> parent of 706b562... Update README.md
+© 2022 XYZ, Inc.
