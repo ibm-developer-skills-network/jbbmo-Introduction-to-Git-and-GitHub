@@ -13,4 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-© 2021 XYZ, Inc.git commit -m "My feature is ready"
+© 2022 XYZ, Inc.
