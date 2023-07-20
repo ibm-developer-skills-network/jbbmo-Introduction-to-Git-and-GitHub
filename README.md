@@ -14,5 +14,7 @@ Output
 ```
 
 <<<<<<< HEAD
-© 2021 XYZ, Inc.
->>>>>>> 4ca3fc808fb308a7d316610847931eab11d32502
+
+=======
+_© 2022 XYZ, Inc._
+>>>>>>> parent of ebce391... My changes to README.md
