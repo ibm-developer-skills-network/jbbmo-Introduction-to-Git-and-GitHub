@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <your Github username>
+# carlos amador ayala campaña
 
 # Input:
 # p, principal amount
