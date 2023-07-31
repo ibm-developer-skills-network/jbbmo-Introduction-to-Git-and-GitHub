@@ -2,7 +2,7 @@
 
 ## Simple Interest Calculator
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+A calcu  git push --set-upstream origin bug-fix-typolator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
 Input:
