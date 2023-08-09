@@ -13,5 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2021 XYZ, Inc._
- Thank you for using Simple Interest Calculator
+_© 2022 XYZ, Inc._
