@@ -14,3 +14,4 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
+git config --global user.name "Your Name"
