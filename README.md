@@ -14,3 +14,7 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
+
+# Download
+
+See releases section.
