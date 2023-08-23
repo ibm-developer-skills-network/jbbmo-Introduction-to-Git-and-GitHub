@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
@@ -14,3 +15,6 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
+=======
+# coding-project-template
+>>>>>>> parent of 8689746... initial files
