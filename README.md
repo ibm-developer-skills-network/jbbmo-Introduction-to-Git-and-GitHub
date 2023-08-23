@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
@@ -14,7 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2021 XYZ, Inc._
-=======
-# coding-project-template
->>>>>>> parent of 8689746... initial files
+_© 2022 XYZ, Inc._
