@@ -4,8 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <your Github username>
-
+# Wilfrido Araujo
 # Input:
 # p, principal amount
 # t, time period in years
