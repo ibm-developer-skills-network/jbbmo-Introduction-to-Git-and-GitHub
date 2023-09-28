@@ -13,4 +13,4 @@ Output
    simple interest = *t*r
 ```
 
-_© 20234wtf XYZ, Inc._
+_© 2021 XYZ, Inc._
