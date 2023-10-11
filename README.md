@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-2022 XYZ, Inc.
+2021 XYZ, Inc.
