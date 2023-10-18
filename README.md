@@ -13,4 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2023 Josiah, Inc._
+_© 2023 , Inc._
