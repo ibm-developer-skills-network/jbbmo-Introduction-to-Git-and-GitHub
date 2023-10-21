@@ -13,4 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2021 XYZ, Inc._
+_© 2021 ACCIDENTALLY PUSHED DURING .8 SO HAVE TO MAKE NEW PULL REQUEST XYZ, Inc.
