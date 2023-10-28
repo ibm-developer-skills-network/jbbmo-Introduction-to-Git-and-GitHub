@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
-yeah i did that. lol
+yeah i did that.
