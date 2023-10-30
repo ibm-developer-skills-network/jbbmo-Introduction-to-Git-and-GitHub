@@ -14,5 +14,4 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
-# change the current year 2022 to 2021 due to instructions of a typo
 
