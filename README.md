@@ -15,4 +15,4 @@ Output
 
 _© 2023 XYZ, Inc._
 
-git revert
+git revert <unwanted comment hash>
