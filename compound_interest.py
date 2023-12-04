@@ -10,7 +10,7 @@
 
 # Output:
 # compound interest = p * (1 + r/100)^t
-
+#typo fixed
 
 def compound_interest(p, t, r):
     return p * (pow((1 + r / 100), t))
