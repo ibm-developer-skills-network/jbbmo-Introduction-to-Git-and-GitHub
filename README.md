@@ -12,7 +12,7 @@ Input:
 Output
    simple interest = p*t*r
 ```
-Make changes in the branch and commit it. 
+Make changes in the branch and commit it. fix bug
 
 
 _© 2022 XYZ, Inc._
