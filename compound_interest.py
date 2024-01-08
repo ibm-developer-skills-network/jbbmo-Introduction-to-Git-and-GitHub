@@ -26,7 +26,7 @@ if __name__ == "__main__":
 git config --global user.email "lovingsvictor@gmai.com"
 git config --global user.name "lovingsvictor"
 git add .
-git commit -m "added a new line to bug-fix-revert"
+git commit -m "added a new line to bug-fix-typo"
     git status
-    git push --set-upstream origin bug-fix-revert
+    git push --set-upstream origin bug-fix-typo
     
