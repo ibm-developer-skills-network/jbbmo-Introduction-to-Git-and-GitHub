@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
     print("The compound interest is {:.2f}".format(compound_interest(p, t, r)))
 
-git config --global user.email "lovingsvictor@gmai.com"
+git config --global user.email "lovingsvictor@gmail.com"
 git config --global user.name "lovingsvictor"
 git add .
 git commit -m "added a new line to bug-fix-typo"
