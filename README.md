@@ -13,4 +13,5 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 XYZ, Inc._  r73reyu
+_© 2022 XYZ, Inc._  
+pull request
