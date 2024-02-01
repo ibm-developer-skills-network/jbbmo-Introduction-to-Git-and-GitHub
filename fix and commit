@@ -1,0 +1,35 @@
+Open your terminal or command prompt.
+
+Navigate to the directory of your Git repository using the cd command. For example:
+
+bash
+
+cd path/to/your/repository
+
+Use a text editor to open the README.md file. You can use commands like nano, vim, or code depending on your preference and setup. For example:
+
+nano README.md
+
+Make the necessary changes to the footer in the README.md file. Find the footer section and replace "explain in steps" with your desired phrase.
+
+Save the changes and exit the text editor.
+
+Use the git status command to see the changes you've made. This will show you the modified file(s).
+
+Add the modified file to the staging area using the git add command. For example:
+
+csharp
+
+git add README.md
+
+Commit the changes with a meaningful message describing the fix. Use the git commit command followed by the -m flag and your message. For example:
+
+sql
+
+git commit -m "Update footer in README.md with new instruction"
+
+Push the changes to your remote repository if necessary. If you're working on a branch and want to push it to the remote repository, you can use the git push command. For example:
+
+perl
+
+git push origin your_branch_name
