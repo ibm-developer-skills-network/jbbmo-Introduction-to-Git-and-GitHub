@@ -13,4 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2024 AFNAN Ahmed, Inc._
+_© 2024 AFNAN AHMED, Inc._
