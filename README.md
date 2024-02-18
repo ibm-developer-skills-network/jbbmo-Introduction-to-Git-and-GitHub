@@ -2,15 +2,13 @@
 
 ## Simple Interest Calculator
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-
-```
+A calculator that calculates simple profit given principal, annual rate of profit and time period in years.
 Input:
-   p, principal amount
+   p, amount gained
    t, time period in years
-   r, annual rate of interest
+   r, profit gained
 Output
-   simple interest = p*t*r
+   simple profit = p*t
 ```
 
-_© 2022 XYZ, Inc._
+_© 2023 XYZ, Inc._
