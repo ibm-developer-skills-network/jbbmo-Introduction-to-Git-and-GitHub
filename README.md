@@ -14,9 +14,5 @@ Output
 ```
 
 _2023 XYZ, Inc..
-_git add Breadcrumbsjbbmo-Introduction-to-Git-and-GitHub
-.txt
-git commit -m "Corregido error tipográfico en el archivo Breadcrumbsjbbmo-Introduction-to-Git-and-GitHub
-README"
 
 
