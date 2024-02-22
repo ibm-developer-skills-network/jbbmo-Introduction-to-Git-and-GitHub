@@ -4,7 +4,8 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <your Github username>
+# <SeneAlukard>
+# Is it right to commit changes here?
 
 # Input:
 # p, principal amount
