@@ -14,4 +14,3 @@ Output
 ```
 
 _© 2023 XYZ, Inc.
-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
