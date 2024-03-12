@@ -1,7 +1,2 @@
 git checkout master
-Switched to branch 'master'
-git merge bug-fix-typo
-updating 09f4acd..dfa79db
-Fast-forward
- index.html | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+git merge bug-typo-fix
