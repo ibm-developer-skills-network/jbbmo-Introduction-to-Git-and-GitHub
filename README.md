@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
+git checkout master
+git merge bug-fix-typo
