@@ -12,5 +12,5 @@ Input:
 Output
    simple interest = p*t*r
 ```
-
+**GitBot prematurely closes my 'bug-fix-typo' merge request, so I cannot properly complete the tasks. Editing this so I can at least merge this branch with the master branch.**
 _© 2022 XYZ, Inc._
