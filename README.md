@@ -1,5 +1,5 @@
 # Introduction to Git and GitHub
-
+# Practicing Pull Requests for Coursera Final Project
 ## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
