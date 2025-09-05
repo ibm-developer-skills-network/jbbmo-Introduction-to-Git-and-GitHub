@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-Just for learning purpose....
+Just for learning
