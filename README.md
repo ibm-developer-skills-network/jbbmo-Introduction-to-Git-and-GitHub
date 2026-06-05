@@ -11,6 +11,13 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+ex:
+ 
+   p = 2000 
+   t = 2 years
+   r = 5
+calc = 2000 * 2 * 5 / 100 = 200
+result = 200.00
 ```
 
-_© 2022 XYZ, Inc._
+_© 2027 XYZ, Inc._
