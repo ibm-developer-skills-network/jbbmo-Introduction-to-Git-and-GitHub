@@ -1,0 +1,8 @@
+curl https://api.github.com/repos/ayaannchowhan09/jbbmo-Introduction-to-Git-and-GitHub
+
+{
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
