@@ -1,0 +1,8 @@
+ curl -s https://api.github.com/repos/veda1406/Introduction-to-Git-and-GitHub | grep -E '"fork":|"full_name":|"parent":'
+  "full_name": "veda1406/Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub",
+    "fork": false,
+    "full_name": "ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub",
+    "fork": false,
