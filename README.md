@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+© 2023 XYZ, Inc.# Introduction to Git and GitHub
 
 ## Simple Interest Calculator
 
